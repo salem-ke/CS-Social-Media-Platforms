@@ -1,0 +1,7 @@
+This folder will include links to useful resources and the datasets
+
+
+Link to information about small world network:https://towardsdatascience.com/social-network-data-twitter-vs-fb-vs-google-vs-everyone-else-830ea0291c86 
+Link providing example of how to analyse network data (algorithm/metrics):https://medium.com/@Luca/guide-analyzing-twitter-networks-with-gephi-0-9-1-2e0220d9097d
+Link to twitter dataset:https://snap.stanford.edu/data/ego-Twitter.html
+Link to facebook dataset:https://snap.stanford.edu/data/ego-Facebook.html
